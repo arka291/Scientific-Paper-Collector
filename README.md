@@ -1,5 +1,7 @@
 # Scientific-Paper-Collector
-A simple to code to using scholarly package to exxtract scientific paper via author name/keywords in a tabular format
+A simple to code to using scholarly package to extract scientific paper via author name/keywords in a csv format
 
-package required: pip install scholarly
-
+Package Required: 
+'pip install scholarly' 
+'pip install pandas' 
+'pip install json'
