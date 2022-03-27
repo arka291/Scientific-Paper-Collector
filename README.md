@@ -1,2 +1,3 @@
 # Scientific-Paper-Collector
-A simple to code to using scholarly package to exxtract scientific paper via author name/keywords 
+A simple to code to using scholarly package to exxtract scientific paper via author name/keywords in a tabular format
+
